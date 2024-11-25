@@ -21,5 +21,4 @@ npm install
 
 # Start the development server:
 npm run dev
-# The game will be accessible at http://localhost:5173 in your browser.
 ```
